@@ -1,0 +1,12 @@
+body {
+   background: skyblue;
+}
+
+h1 {
+   margin: 16px;
+}
+
+li {
+   padding: 7px;
+   color: aquamarine;
+}
